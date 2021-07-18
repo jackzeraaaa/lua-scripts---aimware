@@ -3506,18 +3506,6 @@
     },
     {
       "name": ["sidehall", "Door"],
-      "description": "R",
-      "weapon": "weapon_hegrenade",
-      "position": [912.28179931641, 880.13653564453, -159.96875],
-      "viewangles": [-13.024290084839, 39.719287872314],
-      "grenade": {
-        "run": 10,
-        "delay": 10,
-        "recovery_yaw": 0
-      }
-    },
-    {
-      "name": ["sidehall", "Door"],
       "description": "Oneway",
       "weapon": "weapon_molotov",
       "position": [912.28179931641, 880.13653564453, -159.96875],
