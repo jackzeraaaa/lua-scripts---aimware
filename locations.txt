@@ -3513,7 +3513,7 @@
       "grenade": {
         "run": 10,
         "delay": 10,
-        "recovery_yaw": 180
+        "recovery_yaw": 0
       }
     },
     {
